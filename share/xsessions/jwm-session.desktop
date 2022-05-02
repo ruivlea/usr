@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=JWM-Session
+Comment=A lightweight window manger for the X11 Window System
+Exec=dbus-launch --exit-with-session /usr/bin/jwm
+Type=XSession
